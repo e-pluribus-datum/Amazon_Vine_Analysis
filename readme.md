@@ -2,7 +2,7 @@
 
 ## Overview
 
-A dataset of Amazon Reviews was extracted into a cloud notebook using Google Colab. This dataset was transformed using PySpark DataFrames and loaded into an AWS RDS using PostgreSQL and pgAdmin. The ETL process was thusly brought into the realm of cloud-based computing and hosting.
+A dataset of Amazon reviews was extracted into a cloud notebook using Google Colab. This dataset was transformed using PySpark DataFrames and loaded into an AWS RDS using PostgreSQL and pgAdmin. The ETL process was thusly brought into the realm of cloud-based computing and hosting.
 
 One of the resultant tables was further filtered using any of Pandas, PySpark, or SQL. SQL was chosen in order to practice techniques suitable to large datasets.
 
