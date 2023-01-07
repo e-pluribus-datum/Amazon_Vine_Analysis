@@ -6,6 +6,14 @@ A dataset of Amazon reviews was extracted into a cloud notebook using Google Col
 
 One of the resultant tables was further filtered using any of Pandas, PySpark, or SQL. SQL was chosen in order to practice techniques suitable to large datasets.
 
+## Technologies Used
+
+* Python, PySpark
+
+* Postgres, pgAdmin
+
+* Google Colab, Amazon RDS
+
 ## Results
 
 ![vine_analysis](./vine_review_analysis.png)
